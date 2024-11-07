@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator - React Project
 
 A simple yet powerful password generator built with React. This app allows users to generate secure passwords based on customizable criteria, such as password length, allowed characters (letters, numbers, symbols), and more. The app also includes a "Copy to Clipboard" feature for easy use.
 
